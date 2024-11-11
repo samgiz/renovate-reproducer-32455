@@ -1,0 +1,4 @@
+[submodule "renovate"]
+	path = renovate
+	url = git@github.com:renovatebot/renovate.git
+	update = none
